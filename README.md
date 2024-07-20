@@ -10,9 +10,9 @@
 ### Studying in this moment:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-### GitHub Stats
-<div aling="center">
-  <p aling="center"><img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleberJunior&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" /></p>
+<div align="center">
+<p align="centre"><b>GitHub Stats</b></p>
+  <p aling="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleberJunior&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" /></p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=371F76&height=120&section=header"/>
