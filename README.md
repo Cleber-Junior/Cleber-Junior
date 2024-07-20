@@ -12,7 +12,7 @@
 
 ### GitHub Stats
 <div aling="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleberJunior&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+  <p aling="center"><img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleberJunior&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" /></p>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=371F76&height=120&section=header"/>
