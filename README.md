@@ -16,12 +16,11 @@
 
 </br></br>
 
-<div align="center">
+<!-- <div align="center">
 <p align="centre"><b>GitHub Stats</b></p>
   <p aling="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleber-Junior&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28"/>
   </p>
 </p>
-
-</div>
+</div> -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=371F76&height=120&section=header"/>
